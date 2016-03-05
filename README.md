@@ -1,4 +1,12 @@
+
+
 # Client Library for the Dropbox API
+
+## This repository is no longer maintained
+
+Issue reports and pull requests will not be attended. 
+
+## Overview
 
 This is a JavaScript client library for the Dropbox API,
 [written in CoffeeScript](./guides/coffee_faq.md), suitable for use in both modern
