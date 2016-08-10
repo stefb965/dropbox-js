@@ -1,10 +1,11 @@
-
-# Client Library for the Dropbox API
-
-## This repository is no longer maintained
+# [DEPRECATED] This repository is no longer maintained
 
 Please use the [Dropbox v2 SDK](https://github.com/dropbox/dropbox-sdk-js).
 Issue reports and pull requests will not be attended. 
+
+***
+
+## Client Library for the Dropbox API
 
 ## Overview
 
